@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootStarterParentApplication<erp-hrd-emp-reimb-fe>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.lawgavel.project.springbootstarterparent.SpringBootStarterParentApplication",
+            "projectName": "erp-hrd-emp-reimb-fe",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

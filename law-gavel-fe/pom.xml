@@ -7,11 +7,11 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ecgc.smile.erp</groupId>
-	<artifactId>erp-hrd-emp-reimb-fe</artifactId>
+	<groupId>in.law.gavel</groupId>
+	<artifactId>lawGavel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>lawGavel</name>
-	<description>HRD Reimbursement Frontend Service</description>
+	<description>Law Gavel frontend service</description>
 
 	<properties>
 		<java.version>1.8</java.version>
